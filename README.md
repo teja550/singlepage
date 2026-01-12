@@ -1,0 +1,2 @@
+# singlepage
+my info
